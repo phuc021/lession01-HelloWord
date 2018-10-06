@@ -1,0 +1,4 @@
+﻿git log 
+
+git remote -v
+git checkout -b nhanh
